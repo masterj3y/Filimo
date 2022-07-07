@@ -1,4 +1,4 @@
-package com.sabaidea.filimo.ui.theme
+package com.sabaidea.resources.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes

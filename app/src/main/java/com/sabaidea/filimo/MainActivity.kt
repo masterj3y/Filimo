@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.sabaidea.filimo.ui.theme.FilimoTheme
+import com.sabaidea.resources.theme.FilimoTheme
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
@@ -39,7 +39,7 @@ fun Greeting(name: String) {
 @Preview(showBackground = true)
 @Composable
 fun DefaultPreview() {
-    FilimoTheme {
+    com.sabaidea.resources.theme.FilimoTheme {
         Greeting("Android")
     }
 }

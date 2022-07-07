@@ -1,4 +1,4 @@
-package com.sabaidea.filimo.ui.theme
+package com.sabaidea.resources.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
