@@ -16,3 +16,4 @@ rootProject.name = "Filimo"
 include ':app'
 include ':common:network'
 include ':common:resources'
+include ':common:testutils'
